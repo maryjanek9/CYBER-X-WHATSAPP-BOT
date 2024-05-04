@@ -1,7 +1,7 @@
 {
     "name": "Cyber-X WhatsApp Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
-    "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
+    "repository": "https://github.com/maryjanek9/CYBER-X-WHATSAPP-BOT",
     "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
     "keywords": [
         "nodejs",
@@ -14,17 +14,17 @@
         "SESSION_ID": {
             "description": "Type the Session-ID you got from scaning QR",
             "required": true,
-            "value": ""
+            "value": "{"noiseKey":{"private":{"type":"Buffer","data":"cOf0VktH943sQ59rCXUgXq6VGEkEkt03irTXIxMd0n8="},"public":{"type":"Buffer","data":"TKkltxl8NZDgKx5groNcO5epClukSqMgKrNIXSAXQXQ="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"qMmX42eEAADpkAB5eFbaWV9eIYOWc33R7gNgfp+iDls="},"public":{"type":"Buffer","data":"Ztt4HxXqWwyYnm5+z2KuSLKaSN+zPJ6Nq3JhhUyYuCo="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"IMceligEEkpUS9/O6q5Tk7CiYUIqfMqpjSR1dvRqcE0="},"public":{"type":"Buffer","data":"M/qIxxe02x9jmbEz25OxMk3BMboeFGrK54YqFmIMiTA="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"+EKpE46QNDHp4418tT3lNn1oPzpHA1cn9Q/hiBnPHGw="},"public":{"type":"Buffer","data":"Et36fAbt2Pl0dfMwbRvCJHcTVqX8Ct4hu8RIuWZok2M="}},"signature":{"type":"Buffer","data":"zPmsNvPEsjUrgW9PA5Ju9j/XW5GTsdEzquHfodAadUorGgWTlIz7mQKP2KdwJ53z99o8ttO+92k57Lc8LjRdhg=="},"keyId":1},"registrationId":148,"advSecretKey":"mUSLOQhy64K0OKsSzuglWxBfZdZW+9sgLTD0XkqyIC8=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"deviceId":"AV2f9NyJQ0yVMevCIAjUbw","phoneId":"dddfc8a6-2efb-4e16-a10b-eaa701070f98","identityId":{"type":"Buffer","data":"cZtDpdseuNq83DQI0R8nQAT4X/c="},"registered":false,"backupToken":{"type":"Buffer","data":"xjdyQn7MJimtHKq9HF73yERbF28="},"registration":{},"account":{"details":"CM+jrv8GELGI2bEGGAIgACgA","accountSignatureKey":"onADLdNelkSMWQzpxuowEKx7ixMdaBcy81UBwH40vQI=","accountSignature":"/A45Mk7z73nmgOzn9HHtWmCo2dVdnOdMIzKqWw/V7LDr3Z8z66qH84qHFVJL7q/xDBqoLaG0dqqfTxuYLXxQBg==","deviceSignature":"dCyNH6NXRkjBLA8XJMJ0nrhVV35fW+PL7uyl8SOSXP0ep5nbKMT0Zkz2s8kVpSIsLM62YJGJ8UlY6DdGhialiA=="},"me":{"id":"254748840328:19@s.whatsapp.net","name":"𝕿⃟𝖞⃟𝖑⃟𝖔⃟𝖗⃟    𝕶⃟9🥲"},"signalIdentities":[{"identifier":{"name":"254748840328:19@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BaJwAy3TXpZEjFkM6cbqMBCse4sTHWgXMvNVAcB+NL0C"}}],"platform":"android","lastAccountSyncTimestamp":1714832437,"myAppStateKeyId":"AAAAAPTw"}"
         },
         "HEROKU_API_KEY": {
             "description": "Enter your heroku account api key",
             "required": true,
-            "value": ""
+            "value": "HRKU-84594389-cb6e-438b-b6a3-4448c297dbc1"
         },
         "HEROKU_APP_NAME": {
             "description": "Enter you pushed app Name",
             "required": true,
-            "value": ""
+            "value": "cybertylor5"
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
